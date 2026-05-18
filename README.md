@@ -1,18 +1,31 @@
-# kolkata-fatafat-kff
-Download KFF APK – Kolkata Fatafat Online App. Play single digit game, instant UPI withdrawal, trusted platform.
+# Kolkata Fatafat – KFF App
 
-# KFF App – Kolkata Fatafat Online
+KFF is an online Kolkata Fatafat gaming platform where players can enjoy fast single-digit gameplay directly from their mobile device. Built for speed, simplicity, and smooth UPI transactions.
 
-Play Kolkata Fatafat from home.
+## 🎮 Features
 
-## Features
-- 0-9 Single Digit Game
-- Instant Withdrawal (UPI)
-- Trusted by real players
-- Referral: Earn 5% commission
+- Single Digit Game (0–9)
+- Fast & Simple Gameplay
+- Instant UPI Withdrawals
+- Secure Deposit System
+- Referral Program – Earn 5% Commission
+- Mobile Friendly Experience
+- Trusted by Active Players
 
-## Download APK
+## 📲 Download KFF APK
+
+Get the latest Android APK release below:
+
 👉 [Download Latest Version](your-github-release-link)
 
-## Official Website
-https://fatafat.online
+## 🌐 Official Website
+
+👉 https://fatafat.online
+
+## 🚀 Why KFF?
+
+KFF brings the traditional Kolkata Fatafat experience online with a modern and easy-to-use platform. Play anytime, track results live, and withdraw winnings instantly.
+
+## ⚡ Disclaimer
+
+This project is intended for entertainment purposes only. Users must follow their local laws and regulations before participating.
